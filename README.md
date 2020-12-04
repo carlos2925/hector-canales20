@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,TVN Panama
 https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IqLT2CC.png",OYE CANAL 7
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/tUHkolc.png",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1
 #EXTINF:-1 group-title="CINEMA",CINEMA:  TCM SD*
