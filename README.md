@@ -91,3 +91,29 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/32
 #EXTINF:-1 group-title="CINEMA",CINEMA: TNT SD*
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/33
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/18
+#EXTINF:-1 group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/67
+#EXTINF:-1 group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/68
+#EXTINF:-1 group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/69
+#EXTINF:-1 group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/70
+#EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/71
+#EXTINF:-1 group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/72
+#EXTINF:-1 group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/73
+#EXTINF:-1 group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/74
+#EXTINF:-1 group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/76
+#EXTINF:-1 group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/77
+#EXTINF:-1 group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/78
+#EXTINF:-1 group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/79
