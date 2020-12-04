@@ -30,8 +30,6 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 #EXTINF:-1 ,CULTURA:Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport",BAND SPORTS
-http://rec2.distv.net:80/kennedy/kennedy/422?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BAND SPORTS
 http://rec2.distv.net:80/egidio/egidio/422?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport;Undefined" tvg-logo="https://i.imgur.com/2M9WfqA.jpg",Real Madrid TV (English)
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com
