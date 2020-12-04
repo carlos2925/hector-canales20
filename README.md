@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,TVN Panama
-https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
-#EXTINF:-1 group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/34
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/35
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/36
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/37
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/38
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/39
-#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/40
-#EXTINF:-1 group-title="CULTURA",CULTURA: H2 SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/41
-#EXTINF:-1 group-title="CULTURA",CULTURA: HISTORY SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/42
-#EXTINF:-1 group-title="CULTURA",CULTURA: ID SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/43
-#EXTINF:-1 group-title="CULTURA",CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/44
-#EXTINF:-1 group-title="CULTURA",CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/45
-#EXTINF:-1 group-title="CULTURA",CULTURA: TLC SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/46
-#EXTINF:-1 ,CULTURA:Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1
 #EXTINF:-1 group-title="CINEMA",CINEMA:  TCM SD*
@@ -91,8 +61,92 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/32
 #EXTINF:-1 group-title="CINEMA",CINEMA: TNT SD*
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/33
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/18
+#EXTINF:-1 group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/34
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/35
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/36
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/37
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/38
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/39
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/40
+#EXTINF:-1 group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/41
+#EXTINF:-1 group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/42
+#EXTINF:-1 group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/43
+#EXTINF:-1 group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/44
+#EXTINF:-1 group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/45
+#EXTINF:-1 group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/46
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/48
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/49
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/53
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/55
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/65
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/60
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/61
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/62
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/63
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/64
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/66
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/80
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/89
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/81
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/82
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/84
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/83
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/85
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/86
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/87
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/88
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/90
 #EXTINF:-1 group-title="SERIES",SERIE: A&E SD*
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/67
 #EXTINF:-1 group-title="SERIES",SERIE: A3SERIES
