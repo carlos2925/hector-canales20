@@ -29,4 +29,65 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/46
 #EXTINF:-1 ,CULTURA:Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1
+#EXTINF:-1 group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2
+#EXTINF:-1 group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/3
+#EXTINF:-1 group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/4
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/5
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/6
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/7
+#EXTINF:-1 group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/8
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/9
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/10
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/11
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/14
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/15
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/16
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/17
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/18
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/19
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/20
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/21
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/22
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/23
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/24
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/25
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/26
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/27
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/28
+#EXTINF:-1 group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/29
+#EXTINF:-1 group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/30
+#EXTINF:-1 group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/31
+#EXTINF:-1 group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/32
+#EXTINF:-1 group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/33
