@@ -307,9 +307,4 @@ http://zufreelist.net:8080/ASDVASDV/SEDFGHSERTGSAE/77
 http://zufreelist.net:8080/ASDVASDV/SEDFGHSERTGSAE/78
 #EXTINF:-1 group-title="SERIES",SERIES: WARNER SD*
 http://zufreelist.net:8080/ASDVASDV/SEDFGHSERTGSAE/79
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",Telemetro 13 (720)
-http://tvpremiumhd.club/lista-gratuita/182004/tv/live.php?id=1265
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",Telemetro 13 (SD)
-http://tvpremiumhd.club/lista-gratuita/182004/tv/live.php?id=3258
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Telemetro(720)
-http://tvpremiumhd.club/lista-gratuita/182004/tv/live.php?id=53628
+
