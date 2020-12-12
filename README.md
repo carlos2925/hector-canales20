@@ -305,3 +305,53 @@ http://zufreelist.net:8080/awegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghd
 http://zufreelist.net:8080/awegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawe/awegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfr/936
 #EXTINF:-1 group-title="24/7",url vencida
 http://zufreelist.net:8080/awegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawe/awegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfrawegfarfsedgasethgsfytghdsfr/2119
+
+
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-kZx7luoYfVI/X0g_Fu8rlyI/AAAAAAAABOA/wCZaINRGrsQbqaap8dHnxtbmE79ZtlGWgCLcBGAsYHQ/w200-h200/COS.png",Cable Onda Sports (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=58455
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png",Cable Onda Sports FC (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=58454
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Canal +23 (SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53623
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Canal 2(SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53633
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",H.Vison
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3259
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",hossana vision(SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=1261
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-RlNk03_ZPDQ/Xw-lUbZOl4I/AAAAAAAAAZI/yNHRGzZF_Mw7qj5tZ6gUBJxvRK6NDqFBQCLcBGAsYHQ/w200-h200/%252B23%2BPanama.png",Mas TV 23
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3255
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",MasTV(SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53631
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Nex Canal 21 (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53632
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Nex Canal 21(SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53624
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-RpUWzVVQZxI/Xw82mHIaXAI/AAAAAAAAAXo/O_0jZdrvoVc1aihYzO8J2m9ZzL9fBCoNQCLcBGAsYHQ/w200-h200/Nex%2BTV%2BPanama.png",Next TV 21
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3254
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",RPC 4 (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3256
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",RPC 4(720)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=1266
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",RPC CANAL 4 (720)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53625
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",Ser TV Canal 11
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3260
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",Sertv canal 11 (SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=1263
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",Telemetro 13 (720)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=1265
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",Telemetro 13 (SD)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3258
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",Telemetro(720)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53628
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",TV MAX 9 (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3261
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",tv Max 9 (720)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=1264
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",TV Max(1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53630
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png",Tvn Canal 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=3257
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://i.imgur.com/30HzeQe.png",TVN(1080)
+http://tvpremiumhd.club/lista-gratuita/183011/tv/live.php?id=53629
