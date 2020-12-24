@@ -161,3 +161,17 @@ http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1762
 http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17337
 #EXTINF:-1 ,UNIVERSAL TV
 http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/16736
+
+
+#EXTINF:-1 ,AXN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/27591
+#EXTINF:-1 ,AXN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/42432
+#EXTINF:-1 ,AXN ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55397
+#EXTINF:-1 ,AXN LATINO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1725
+#EXTINF:-1 ,ES: AXN (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/61591
+#EXTINF:-1 ,ES: AXN WHITE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/61592
