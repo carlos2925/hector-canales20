@@ -146,3 +146,18 @@ http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/18219
 #EXTINF:-1 ,24/7 Caso Cerrado
 http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57836
 
+
+
+
+#EXTINF:-1 ,Dragon Ball Super 3 Saga de la Supervivencia Universal
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/60542
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1755
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/15714
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1762
+#EXTINF:-1 ,UNIVERSAL CHANNEL ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17337
+#EXTINF:-1 ,UNIVERSAL TV
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/16736
