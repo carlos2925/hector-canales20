@@ -139,3 +139,6 @@ http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54122
 http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58093
 #EXTINF:-1 ,FOX SPORTS SUR 2 (ʜᴅ)
 http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/18219
+
+#EXTINF:-1 ,24/7 Caso Cerrado
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57836
