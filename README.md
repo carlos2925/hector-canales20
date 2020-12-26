@@ -314,5 +314,5 @@ http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1162.mkv
 http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1020.mkv
 #EXTINF:-1 ,PEARL HARBOR: ENTRE EL FUEGO Y LA PASIÃ³N
 http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1529.mkv
-
-#EXTINF:-1 ,24/7 Caso Cerrado http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57836
+#EXTINF:-1 ,24/7 Caso Cerrado
+http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57836
