@@ -1,182 +1,30 @@
 #EXTM3U
-#EXTINF:-1 ,DISCOVERY CHANNEL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/781
-#EXTINF:-1 ,DISCOVERY CHANNEL ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17326
-#EXTINF:-1 ,DISCOVERY H&H (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/782
-#EXTINF:-1 ,DISCOVERY H&H ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/5408
-#EXTINF:-1 ,DISCOVERY INVESTIGATION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17312
-#EXTINF:-1 ,DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17320
-#EXTINF:-1 ,DISCOVERY KIDS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17719
-#EXTINF:-1 ,DISCOVERY KIDS (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/721
-#EXTINF:-1 ,DISCOVERY SCIENCE (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/5409
-#EXTINF:-1 ,DISCOVERY SCIENCE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17329
-#EXTINF:-1 ,DISCOVERY THEATER ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/784
-#EXTINF:-1 ,DISCOVERY TURBO
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/5410
-#EXTINF:-1 ,DISCOVERY TURBO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1161
-#EXTINF:-1 ,Discovery Turbo ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55407
-#EXTINF:-1 ,DISCOVERY WORLD
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/5412
-#EXTINF:-1 ,DISCOVERY WORLD ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17331
-#EXTINF:-1 ,Investigation Discovery ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55433
-
-
-
-
-
-#EXTINF:-1 ,BR: FOX SPORTS 1
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/14787
-#EXTINF:-1 ,ES: FOX
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/40710
-#EXTINF:-1 ,Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55415
-#EXTINF:-1 ,FOX CHANNEL
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/15925
-#EXTINF:-1 ,FOX CHANNEL (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/53539
-#EXTINF:-1 ,FOX CHANNEL SUR
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1738
-#EXTINF:-1 ,FOX LIFE (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1730
-#EXTINF:-1 ,FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/42435
-#EXTINF:-1 ,FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55015
-#EXTINF:-1 ,FOX NEWS
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/27718
-#EXTINF:-1 ,FOX PREMIUM ACTION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1731
-#EXTINF:-1 ,FOX PREMIUM ACTION (col)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33356
-#EXTINF:-1 ,FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55016
-#EXTINF:-1 ,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1732
-#EXTINF:-1 ,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33357
-#EXTINF:-1 ,FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1733
-#EXTINF:-1 ,FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33358
-#EXTINF:-1 ,FOX PREMIUM COMEDY
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1734
-#EXTINF:-1 ,FOX PREMIUM COMEDY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33359
-#EXTINF:-1 ,FOX PREMIUM FAMILY
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1735
-#EXTINF:-1 ,FOX PREMIUM FAMILY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33360
-#EXTINF:-1 ,FOX PREMIUM MOVIES
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/33361
-#EXTINF:-1 ,FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1736
-#EXTINF:-1 ,FOX PREMIUM SERIES
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1737
-#EXTINF:-1 ,FOX PREMIUM SERIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/16177
-#EXTINF:-1 ,FOX SOCCER PLUS
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/43357
-#EXTINF:-1 ,FOX SPORTS 1 (ᴍ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/41665
-#EXTINF:-1 ,FOX SPORTS 1 (ꜱᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54121
-#EXTINF:-1 ,FOX SPORTS 1 CHILE (ᴀ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/25247
-#EXTINF:-1 ,FOX SPORTS 1 CHILE (ʙ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55004
-#EXTINF:-1 ,FOX SPORTS 1 SUR (ᴍ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/25248
-#EXTINF:-1 ,FOX SPORTS 2 (ᴍ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54123
-#EXTINF:-1 ,FOX SPORTS 2 ARGENTINA (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58095
-#EXTINF:-1 ,FOX SPORTS 2 BRASIL (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54330
-#EXTINF:-1 ,FOX SPORTS 2 BRASIL (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57810
-#EXTINF:-1 ,FOX SPORTS 2 CHILE (ꜱᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58150
-#EXTINF:-1 ,FOX SPORTS 2 MÉXICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55378
-#EXTINF:-1 ,FOX SPORTS 2 MÉXICO (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/613
-#EXTINF:-1 ,FOX SPORTS 2 SUR (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55005
-#EXTINF:-1 ,FOX SPORTS 2 SUR (ᴍ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57823
-#EXTINF:-1 ,FOX SPORTS 3 ARGENTINA (ꜱᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/41668
-#EXTINF:-1 ,FOX SPORTS 3 MÉXICO (ᴍ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/18218
-#EXTINF:-1 ,FOX SPORTS 3 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55007
-#EXTINF:-1 ,FOX SPORTS 3 SUR ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55006
-#EXTINF:-1 ,FOX SPORTS ARGENTINA (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58065
-#EXTINF:-1 ,FOX SPORTS ARGENTINA (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58066
-#EXTINF:-1 ,FOX SPORTS BRASIL (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54329
-#EXTINF:-1 ,FOX SPORTS MÉXICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/32993
-#EXTINF:-1 ,FOX SPORTS MÉXICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55003
-#EXTINF:-1 ,FOX SPORTS PREMIUM (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/54122
-#EXTINF:-1 ,FOX SPORTS SUR (ꜱᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/58093
-#EXTINF:-1 ,FOX SPORTS SUR 2 (ʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/18219
-
-#EXTINF:-1 ,24/7 Caso Cerrado
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/57836
-
-
-
-
-#EXTINF:-1 ,Dragon Ball Super 3 Saga de la Supervivencia Universal
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/60542
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1755
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/15714
-#EXTINF:-1 ,UNIVERSAL CHANNEL
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1762
-#EXTINF:-1 ,UNIVERSAL CHANNEL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/17337
-#EXTINF:-1 ,UNIVERSAL TV
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/16736
-
-
-#EXTINF:-1 ,AXN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/27591
-#EXTINF:-1 ,AXN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/42432
-#EXTINF:-1 ,AXN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/55397
-#EXTINF:-1 ,AXN LATINO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/1725
-#EXTINF:-1 ,ES: AXN (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/61591
-#EXTINF:-1 ,ES: AXN WHITE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/ROMEROEDU/a9cV7K7Stw/61592
-
-
+#EXTINF:-1 group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/34
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/35
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/36
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/37
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/38
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/39
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/40
+#EXTINF:-1 group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/41
+#EXTINF:-1 group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/42
+#EXTINF:-1 group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/43
+#EXTINF:-1 group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/44
+#EXTINF:-1 group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/45
+#EXTINF:-1 group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/46
 
 #EXTINF:-1 group-title="24/7",24/7  CAILLOU
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/872
@@ -309,3 +157,160 @@ http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/935
 #EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/936
 
+
+#EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/1
+#EXTINF:-1 group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/2
+#EXTINF:-1 group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/3
+#EXTINF:-1 group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/4
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/5
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/6
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/7
+#EXTINF:-1 group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/8
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/9
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/10
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/11
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/14
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/15
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/16
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/17
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/18
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/19
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/20
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/21
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/22
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/23
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/24
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/25
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/26
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/27
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/28
+#EXTINF:-1 group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/29
+#EXTINF:-1 group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/31
+#EXTINF:-1 group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/32
+#EXTINF:-1 group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/33
+#EXTINF:-1 group-title="Canelo Alvarez v. Callum Smith EVENTOS",CINEMA: SPACE SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/30
+#EXTINF:-1 ,NIGHTMARE CINEMA
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1649.mp4
+
+#EXTINF:-1 group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/67
+#EXTINF:-1 group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/68
+#EXTINF:-1 group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/69
+#EXTINF:-1 group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/70
+#EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/71
+#EXTINF:-1 group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/72
+#EXTINF:-1 group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/73
+#EXTINF:-1 group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/74
+#EXTINF:-1 group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/76
+#EXTINF:-1 group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/77
+#EXTINF:-1 group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/78
+#EXTINF:-1 group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/79
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/18
+#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/916
+#EXTINF:-1 ,LA SERIE DIVERGENTE: INSURGENTE
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1749.mp4
+#EXTINF:-1 ,LA SERIE DIVERGENTE: LEAL
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1750.mp4
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/48
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/49
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/53
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/55
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/65
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/60
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/61
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/62
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/63
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/64
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",COMO ENTRENAR A TU DRAGÃ³N: REGRESO A CASA
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/529.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/427.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/428.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/429.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/430.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/431.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/432.mp4
+#EXTINF:-1 ,EL ASESINO ESTÃ¡ ENTRE NOSOTROS
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1757.mp4
+#EXTINF:-1 ,ENTRE DOS HELECHOS: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1162.mkv
+#EXTINF:-1 ,ENTRE NAVAJAS Y SECRETOS
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1020.mkv
+#EXTINF:-1 ,PEARL HARBOR: ENTRE EL FUEGO Y LA PASIÃ³N
+http://zufreelist.net:8080/movie/kZ3545HGJF/g4iEV5QOzS/1529.mkv
