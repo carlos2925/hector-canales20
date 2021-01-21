@@ -325,3 +325,198 @@ http://tv.nousiptv.com:8080/Lucy/123456/53028
 http://tv.nousiptv.com:8080/Lucy/123456/54717
 #EXTINF:-1 ,COL - CANAL UNO FHD
 http://tv.nousiptv.com:8080/Lucy/123456/1066863
+
+
+#EXTINF:-1 ,PAN - TELEMETRO CANAL 13 HD
+http://tv.nousiptv.com:8080/Lucy/123456/7685
+#EXTINF:-1 ,PAN - TELEMETRO CANAL 13 SD
+http://tv.nousiptv.com:8080/Lucy/123456/53495
+#EXTINF:-1 ,PAN - TVN FHD
+http://tv.nousiptv.com:8080/Lucy/123456/53494
+#EXTINF:-1 ,PAN - TVN HD
+http://tv.nousiptv.com:8080/Lucy/123456/53493
+#EXTINF:-1 ,PAN - TVN SD
+http://tv.nousiptv.com:8080/Lucy/123456/7446
+
+#EXTINF:-1 ,CINE - A&E
+http://tv.nousiptv.com:8080/Lucy/123456/3246
+#EXTINF:-1 ,CINE - AMC
+http://tv.nousiptv.com:8080/Lucy/123456/4118
+#EXTINF:-1 ,CINE - AXN
+http://tv.nousiptv.com:8080/Lucy/123456/3248
+#EXTINF:-1 ,CINE - CINE LATINO
+http://tv.nousiptv.com:8080/Lucy/123456/4136
+#EXTINF:-1 ,CINE - CINECANAL
+http://tv.nousiptv.com:8080/Lucy/123456/3250
+#EXTINF:-1 ,CINE - CINEMA DINAMITA
+http://tv.nousiptv.com:8080/Lucy/123456/4142
+#EXTINF:-1 ,CINE - CINEMAX
+http://tv.nousiptv.com:8080/Lucy/123456/3084
+#EXTINF:-1 ,CINE - CLARO CINEMA
+http://tv.nousiptv.com:8080/Lucy/123456/4145
+#EXTINF:-1 ,CINE - DE PELICULA
+http://tv.nousiptv.com:8080/Lucy/123456/2997
+#EXTINF:-1 ,CINE - DE PELICULA PLUS
+http://tv.nousiptv.com:8080/Lucy/123456/3239
+#EXTINF:-1 ,CINE - DHE
+http://tv.nousiptv.com:8080/Lucy/123456/24180
+#EXTINF:-1 ,CINE - EUROPA EUROPA
+http://tv.nousiptv.com:8080/Lucy/123456/33359
+#EXTINF:-1 ,CINE - FOX CHANNEL
+http://tv.nousiptv.com:8080/Lucy/123456/4121
+#EXTINF:-1 ,CINE - FOX LIFE
+http://tv.nousiptv.com:8080/Lucy/123456/3203
+#EXTINF:-1 ,CINE - FOX PREMIUM ACTION
+http://tv.nousiptv.com:8080/Lucy/123456/3263
+#EXTINF:-1 ,CINE - FOX PREMIUM CINEMA
+http://tv.nousiptv.com:8080/Lucy/123456/3264
+#EXTINF:-1 ,CINE - FOX PREMIUM CLASSICS
+http://tv.nousiptv.com:8080/Lucy/123456/3077
+#EXTINF:-1 ,CINE - FOX PREMIUM COMEDY
+http://tv.nousiptv.com:8080/Lucy/123456/3102
+#EXTINF:-1 ,CINE - FOX PREMIUM FAMILY
+http://tv.nousiptv.com:8080/Lucy/123456/4032
+#EXTINF:-1 ,CINE - FOX PREMIUM MOVIES
+http://tv.nousiptv.com:8080/Lucy/123456/3266
+#EXTINF:-1 ,CINE - FOX PREMIUM SERIES.
+http://tv.nousiptv.com:8080/Lucy/123456/3262
+#EXTINF:-1 ,CINE - FX
+http://tv.nousiptv.com:8080/Lucy/123456/3201
+#EXTINF:-1 ,CINE - FXM
+http://tv.nousiptv.com:8080/Lucy/123456/4009
+#EXTINF:-1 ,CINE - GOLDEN
+http://tv.nousiptv.com:8080/Lucy/123456/3236
+#EXTINF:-1 ,CINE - GOLDEN EDGE
+http://tv.nousiptv.com:8080/Lucy/123456/3237
+#EXTINF:-1 ,CINE - HBO
+http://tv.nousiptv.com:8080/Lucy/123456/3199
+#EXTINF:-1 ,CINE - HBO 2
+http://tv.nousiptv.com:8080/Lucy/123456/3198
+#EXTINF:-1 ,CINE - HBO POP
+http://tv.nousiptv.com:8080/Lucy/123456/47445
+#EXTINF:-1 ,CINE - HBO PLUS
+http://tv.nousiptv.com:8080/Lucy/123456/4003
+#EXTINF:-1 ,CINE - HBO FAMILY
+http://tv.nousiptv.com:8080/Lucy/123456/4017
+#EXTINF:-1 ,CINE - HBO MUNDI
+http://tv.nousiptv.com:8080/Lucy/123456/44337
+#EXTINF:-1 ,CINE - HBO SIGNATURE
+http://tv.nousiptv.com:8080/Lucy/123456/3197
+#EXTINF:-1 ,CINE - I-SAT
+http://tv.nousiptv.com:8080/Lucy/123456/3074
+#EXTINF:-1 ,CINE - MORBID TV
+http://tv.nousiptv.com:8080/Lucy/123456/33364
+#EXTINF:-1 ,CINE - PANICO TV HD
+http://tv.nousiptv.com:8080/Lucy/123456/7436
+#EXTINF:-1 ,CINE - PARAMOUNT CHANNEL
+http://tv.nousiptv.com:8080/Lucy/123456/2952
+#EXTINF:-1 ,CINE - SONY
+http://tv.nousiptv.com:8080/Lucy/123456/3069
+#EXTINF:-1 ,CINE - SPACE
+http://tv.nousiptv.com:8080/Lucy/123456/3232
+#EXTINF:-1 ,CINE - STUDIO UNIVERSAL
+http://tv.nousiptv.com:8080/Lucy/123456/3229
+#EXTINF:-1 ,CINE - SUNDANCE TV
+http://tv.nousiptv.com:8080/Lucy/123456/4101
+#EXTINF:-1 ,CINE - SYFY
+http://tv.nousiptv.com:8080/Lucy/123456/3958
+#EXTINF:-1 ,CINE - TBS
+http://tv.nousiptv.com:8080/Lucy/123456/4011
+#EXTINF:-1 ,CINE - TCM
+http://tv.nousiptv.com:8080/Lucy/123456/3065
+#EXTINF:-1 ,CINE - TNT
+http://tv.nousiptv.com:8080/Lucy/123456/4010
+#EXTINF:-1 ,CINE - TNT SERIES
+http://tv.nousiptv.com:8080/Lucy/123456/3218
+#EXTINF:-1 ,CINE - UNIVERSAL CHANNEL
+http://tv.nousiptv.com:8080/Lucy/123456/3068
+#EXTINF:-1 ,CINE - WARNER
+http://tv.nousiptv.com:8080/Lucy/123456/3228
+#EXTINF:-1 ,CINP - STARZ CINEMA HD
+http://tv.nousiptv.com:8080/Lucy/123456/8136
+#EXTINF:-1 ,FHD - CINECANAL
+http://tv.nousiptv.com:8080/Lucy/123456/4068
+#EXTINF:-1 ,FHD - CINEMAX
+http://tv.nousiptv.com:8080/Lucy/123456/4110
+#EXTINF:-1 ,FHD - FOX PREMIUM CINEMA
+http://tv.nousiptv.com:8080/Lucy/123456/8238
+#EXTINF:-1 ,MEX - AZ CINEMA
+http://tv.nousiptv.com:8080/Lucy/123456/2954
+#EXTINF:-1 ,MEX - AZ CINEMA FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4086
+#EXTINF:-1 ,BRA - TELECINE ACTION
+http://tv.nousiptv.com:8080/Lucy/123456/7780
+#EXTINF:-1 ,BRA - TELECINE CULT
+http://tv.nousiptv.com:8080/Lucy/123456/7781
+#EXTINF:-1 ,BRA - TELECINE PREMIUM
+http://tv.nousiptv.com:8080/Lucy/123456/7782
+#EXTINF:-1 ,BRA - TELECINE FUN
+http://tv.nousiptv.com:8080/Lucy/123456/7783
+#EXTINF:-1 ,ES - MOVISTAR CINE Ñ
+http://tv.nousiptv.com:8080/Lucy/123456/6026
+#EXTINF:-1 ,PPV - CINE INFANTIL 03
+http://tv.nousiptv.com:8080/Lucy/123456/29415
+#EXTINF:-1 ,PPV - CINEMA 01 FHD (ES)
+http://tv.nousiptv.com:8080/Lucy/123456/7964
+#EXTINF:-1 ,PPV - CINEMA 05 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8005
+#EXTINF:-1 ,PPV - CINEMA 06 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8004
+#EXTINF:-1 ,PPV - CINEMA 07 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8003
+#EXTINF:-1 ,PPV - CINEMA 08 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8002
+#EXTINF:-1 ,PPV - CINEMA 09 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8001
+#EXTINF:-1 ,PPV - CINEMA 10 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/8000
+#EXTINF:-1 ,PPV - CINEMA 11 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7999
+#EXTINF:-1 ,PPV - CINEMA 12 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7998
+#EXTINF:-1 ,PPV - CINEMA 13 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7997
+#EXTINF:-1 ,PPV - CINEMA 14 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7996
+#EXTINF:-1 ,PPV - CINEMA 15 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7995
+#EXTINF:-1 ,PPV - CINEMA 16 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7994
+#EXTINF:-1 ,PPV - CINEMA 17 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7993
+#EXTINF:-1 ,PPV - CINEMA 18 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7992
+#EXTINF:-1 ,PPV - CINEMA 19 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7991
+#EXTINF:-1 ,PPV - CINEMA 20 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7990
+#EXTINF:-1 ,PPV - CINEMA 21 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7989
+#EXTINF:-1 ,PPV - CINEMA 22 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7988
+#EXTINF:-1 ,PPV - CINEMA 23 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7987
+#EXTINF:-1 ,PPV - CINEMA 24 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7986
+#EXTINF:-1 ,PPV - CINEMA 25 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7985
+#EXTINF:-1 ,PPV - CINEMA 26 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7984
+#EXTINF:-1 ,PPV - CINEMA 27 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7983
+#EXTINF:-1 ,PPV - CINEMA 28 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7982
+#EXTINF:-1 ,PPV - CINEMA 29 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7981
+#EXTINF:-1 ,PPV - CINEMA 30 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7980
+#EXTINF:-1 ,PPV - CINEMA 31 FHD (ES).
+http://tv.nousiptv.com:8080/Lucy/123456/7979
+#EXTINF:-1 ,CINE - HBO XTREME
+http://tv.nousiptv.com:8080/Lucy/123456/44341
+#EXTINF:-1 ,ESP - BOOM CINE
+http://tv.nousiptv.com:8080/Lucy/123456/51047
+#EXTINF:-1 ,cine_ Cinemax
+http://tv.nousiptv.com:8080/Lucy/123456/1068350
+#EXTINF:-1 ,Seberg: Más allá del cine (2019)
+http://tv.nousiptv.com:8080/movie/Lucy/123456/60128.mp4
